@@ -1,5 +1,5 @@
 # Asteroid-Escape
-This game was done as an assignment for a Computer Engineering Class (Comp_Eng 205)
+This game was done as an assignment for a Computer Engineering Class (Comp_Eng 205) and is written in Assembly.
 Assignment 5- Asteroid Game: Asteroid Escape 
 
 Game Specifications
